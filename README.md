@@ -6,6 +6,7 @@ This project was made for practice the language swift with table views and consu
 
 ## What I’ve Learned
 - How to implement a request by Alamofire
+- Receive data by json
 - Use model to fill a table view
 - Screen(Views) connections
 
