@@ -1,7 +1,5 @@
 # Alamofire
 
-Project made to learn a little bit about alamofire and consume a external API with Swift language.
-
 ![Thumbnail](assets/AlamofireUse.gif)
 
 This project was made for practice the language swift with table views and consumes a external API.
