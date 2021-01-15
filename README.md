@@ -12,7 +12,7 @@ This project was made for practice the language swift with table views and consu
 
 
 ## Requirements
-- iPad running iOS 13+
+- iPhone running iOS 13+
 
 ## Project Information
 - Created: 01/2021
